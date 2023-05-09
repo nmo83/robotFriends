@@ -1,5 +1,6 @@
 {
   "name": "robotfriends",
+  "homepage": "http://localhost/index",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
